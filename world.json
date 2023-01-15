@@ -1,6 +1,6 @@
 {
   "title": "Bloat - a Mork Borg short adventure English Version",
-  "version": "1.0",
+  "version": "1.0.1",
   "system": "morkborg",
   "coreVersion": "10.291",
   "resetKeys": false,
@@ -41,8 +41,8 @@
     }
   ],
   "url": "https://github.com/LoSmilodonte/bloat-a-mork-borg-short-adventure-eng-ver",
-  "manifest": "https://github.com/LoSmilodonte/bloat-a-mork-borg-short-adventure-eng-ver/releases/download/1.0/world.json",
-  "download": "https://github.com/LoSmilodonte/bloat-a-mork-borg-short-adventure-eng-ver/releases/download/1.0/bloat-a-mork-borg-short-adventure-eng-ver.zip",
+  "manifest": "https://github.com/LoSmilodonte/bloat-a-mork-borg-short-adventure-eng-ver/releases/download/1.0.1/world.json",
+  "download": "https://github.com/LoSmilodonte/bloat-a-mork-borg-short-adventure-eng-ver/releases/download/1.0.1/bloat-a-mork-borg-short-adventure-eng-ver.zip",
   "description": "<section><p><span style=\"font-family:Courier\">Bloat - a gluttonous dungeon Mork Borg</span></p><p><span style=\"font-family:Courier\"><br />Written by <strong>Greg Saunders </strong></span></p><p><span style=\"font-family:Courier\">Original map design <strong>Dyson Logos</strong></span></p><p><span style=\"font-family:Courier\">Editing and art <strong>Johan Nohr</strong><br /></span></p></section>",
   "background": "worlds/bloat-a-mork-borg-short-adventure-eng-ver/Artwork/fat_king.jpg"
 }

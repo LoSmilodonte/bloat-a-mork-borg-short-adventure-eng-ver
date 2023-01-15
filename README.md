@@ -1,13 +1,13 @@
-# bloat-a-mork-borg-short-adventure-ita-ver
- Modulo avventura versione ITALIANA dell'avventura BLOAT da utilizzare su Foundry VTT
+# bloat-a-mork-borg-short-adventure-eng-ver
+ An adventure world to be used on FOUNDRY VTT of BLOAT - a gluttonous dungeon for Mork Borg
  <br>
- Bloat è un'avventura per Mork Borg creata da Johan Nohr e Greg Saunders
+ Bloat is a Mork Borg adventure created by Johan Nohr and Greg Saunders
  <br>
- tutti i diritti sono dei rispettivi autori
+ all rights reserved
  <br>
- Mi sono limitato a creare le scene di gioco su FoundryVTT
+ I just created the content on FOUNDRYVTT
 <br>
-pdf liberamente disponibile su https://morkborg.exlibrisrpg.com/entries/bloat
+pdf available at https://morkborg.exlibrisrpg.com/entries/bloat
 <br>
 Bloat <br>
 Johan Nohr <br>

@@ -1,6 +1,6 @@
 {
   "title": "Bloat - a Mork Borg short adventure English Version",
-  "version": "1.0.1",
+  "version": "1.0",
   "system": "morkborg",
   "coreVersion": "10.291",
   "resetKeys": false,
